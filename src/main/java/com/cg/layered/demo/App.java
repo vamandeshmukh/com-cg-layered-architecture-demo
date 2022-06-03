@@ -3,7 +3,8 @@ package com.cg.layered.demo;
 /**
  * 
  * @author Vaman Deshmukh
- *
+ * 
+ *         {@link https://github.com/vamandeshmukh/com-cg-layered-architecture-demo}
  */
 
 public class App {
